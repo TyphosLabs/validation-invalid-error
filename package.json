@@ -10,7 +10,7 @@
   "author": "Joshua Sullivan",
   "license": "ISC",
   "dependencies": {
-    "@typhoslabs/errors": "^4.0.1"
+    "@typhoslabs/super-errors": "^0.0.0"
   },
   "devDependencies": {
     "@typhoslabs/validation-base": "^0.0.1",
