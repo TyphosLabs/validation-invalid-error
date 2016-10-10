@@ -1,6 +1,6 @@
 {
   "name": "@typhoslabs/validation-invalid-error",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Makes Validation.Invalid behave as an instanceof Error",
   "main": "index.js",
   "scripts": {
