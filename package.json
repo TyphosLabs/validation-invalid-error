@@ -1,5 +1,5 @@
 {
-  "name": "@orchardcorset/validation-invalid-error",
+  "name": "@typhoslabs/validation-invalid-error",
   "version": "0.0.3",
   "description": "Makes Validation.Invalid behave as an instanceof Error",
   "main": "index.js",
@@ -10,11 +10,11 @@
   "author": "Joshua Sullivan",
   "license": "ISC",
   "dependencies": {
-    "@orchardcorset/errors": "^4.0.1"
+    "@typhoslabs/errors": "^4.0.1"
   },
   "devDependencies": {
-    "@orchardcorset/validation-base": "^0.0.1",
-    "@orchardcorset/validation-invalid": "^0.0.2",
+    "@typhoslabs/validation-base": "^0.0.1",
+    "@typhoslabs/validation-invalid": "^0.0.2",
     "chai": "^3.5.0",
     "dirty-chai": "^1.2.2",
     "mocha": "^2.4.5"
