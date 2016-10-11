@@ -3,7 +3,7 @@
 // simply makes it so that Validation.Invalid instances are also instanceof Error
 
 // need server-side errors
-var Errors = require('@typhoslabs/super-errors');
+var Errors = require('super-errors');
 
 module.exports = function(Validation){
     if(!Validation || !Validation.Invalid){
